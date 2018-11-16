@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import connect from "react-redux/es/connect/connect";
 
 // styles
-import 'react-table/react-table.css';
+//import 'react-table/react-table.css';
 
 // actions
 import * as dataActions from "../../action/data";
